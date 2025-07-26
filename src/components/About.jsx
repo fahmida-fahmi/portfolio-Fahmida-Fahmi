@@ -10,7 +10,7 @@ import propTypes from 'prop-types';
 const ServiceCard = ({ index, title, icon }) => {
   return (
     <Tilt
-      className="xs:w-[250px] w-full"
+      className="xs:w-[250px] w-full mx-auto"
       options={{
         max: 45,
         scale: 1,
