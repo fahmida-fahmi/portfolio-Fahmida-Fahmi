@@ -17,7 +17,7 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import python from "./tech/Python-Emblem.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
@@ -26,10 +26,15 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import munnaReview from "./testimonial/munna vai.png"
+import shimaReview from "./testimonial/shima apa.jpg";
+import emilReview from "./testimonial/emil vai.jpg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import allMuslimLiving from "./work/AIL-All-Muslim-Living-07-23-2025_05_17_PM.png";
+import dunlin from "./work/Create-Next-App-07-23-2025_05_26_PM.png";
+import bistroBoss from "./work/Vite-React-07-23-2025_05_31_PM.png";
 
 export {
   logo,
@@ -49,7 +54,7 @@ export {
   mongodb,
   nodejs,
   reactjs,
-  redux,
+  python,
   tailwind,
   typescript,
   threejs,
@@ -60,5 +65,11 @@ export {
   carrent,
   jobit,
   tripguide,
-  msOffice
+  munnaReview,
+  shimaReview,
+  emilReview,
+  msOffice,
+  allMuslimLiving,
+  dunlin,
+  bistroBoss,
 };

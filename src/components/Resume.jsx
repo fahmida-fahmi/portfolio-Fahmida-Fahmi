@@ -5,7 +5,7 @@ import { SectionWrapper } from '../hoc';
 const Resume = () => {
     const handleDownload = () => {
         const link = document.createElement('a');
-        link.href = `${import.meta.env.PUBLIC_URL}/resume.pdf`; // Replace with the correct path if needed
+        link.href = `https://drive.google.com/uc?export=download&id=1QeRakrG7YFAp1q1hRyYYL_OvrTz8QwpB`; 
         link.download = 'Fahmida_Fahmi_Resume.pdf';
         link.click();
     };
@@ -24,4 +24,5 @@ const Resume = () => {
     );
 };
 
-export default SectionWrapper(Resume,'resume');
+const WrappedResume = SectionWrapper(Resume, 'resume');
+export default WrappedResume;

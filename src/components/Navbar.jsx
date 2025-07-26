@@ -45,7 +45,7 @@ const Navbar = () => {
           <img src={logo} alt='logo' className='w-12 h-12 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Fahmida Fahmi <span className="px-2 text-[#EF9137] font-bold lg:block  hidden"> | </span>
-            <span className='hidden lg:block'>  JavaScript Mastery</span>
+            <span className='hidden lg:block'>  Self-Employed</span>
           </p>
         </Link>
 
