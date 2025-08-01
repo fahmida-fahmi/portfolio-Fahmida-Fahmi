@@ -48,7 +48,7 @@ const About = () => {
       </motion.div>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
       >
         A multidisciplinary developer and designer with a B.Sc. in Computer Science and Engineering. I specialize in full-stack web development using the MERN stack and have hands-on experience in both technical and creative fields, including graphic design and video editing.
 
